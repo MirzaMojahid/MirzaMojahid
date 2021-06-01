@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MirzaMojahid
 - 👀 I’m interested in IoT & Mobile App development.
-- 🌱 I’m currently learning IoT
+- 🌱 I’m currently learning  Mobile App development.
 - 💞️ I’m looking to collaborate on with skilled person.
 - 📫 How to reach me?via GMail(mirzamojahid7@gmail.com).
 <!---
