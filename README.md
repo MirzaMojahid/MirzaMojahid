@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MirzaMojahid
 - 👀 I’m interested in IoT & Mobile App development.
-- 🌱 I’m currently learning  Next js.
+- 🌱 I’m currently learning React/Next js.
 - 💞️ I’m looking to collaborate on with skilled person.
 - 📫 How to reach me?via maill (mirzamojahid7@gmail.com).
 <!---
