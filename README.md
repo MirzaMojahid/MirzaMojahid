@@ -5,7 +5,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Mirza Mojahid.<br>
-        I’m currently learning React/Next j.<br>
+        I’m currently learning React/Next js.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://linkedin.com/in/mirzamojahid">
