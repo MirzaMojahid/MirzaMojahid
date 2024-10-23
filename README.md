@@ -11,8 +11,8 @@
     <a href="https://linkedin.com/in/mirzamojahid">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://www.kaggle.com/mirzamojahid">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
+    <a href="https://facebook.com/mirzamojahid.mm">
+        <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook" alt="Facebook">
     </a>
 </p>
 
@@ -37,9 +37,6 @@
 [![Nextjs](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextjs)](https://github.com/mirzamojahid)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/mirzamojahid)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/mirzamojahid)
-
-### UI/UX
-[![XD](https://img.shields.io/badge/adobe-black?style=for-the-badge&logo=adobexd)](https://github.com/mirzamojahid)
 
 
 ### OS
